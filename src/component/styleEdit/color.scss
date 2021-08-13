@@ -1,0 +1,23 @@
+.defaultColorBox{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 10px;
+    .color-item{
+        width: 40px;
+        height: 40px;
+        margin: 10px 15px;
+        border-radius: 50%;
+        position: relative;
+        cursor: pointer;
+        &.action::before{
+            content: "";
+            position: absolute;
+            width: 28px;
+            height: 28px;
+            top: 6px;
+            left: 6px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+        }
+    }
+}
