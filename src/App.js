@@ -14,12 +14,17 @@ import Demo10 from "./demo10"  //该实例是利用回调函数来实现子组�
 import Demo11 from "./demo11"  //该实例是实现一个自定义Hooks
 import Debounce from "./demo12/debounce"  //该实例是实现防抖函数的自定义Hooks
 import Throttle from "./demo12/throttle"  //该实例是实现节流函数的自定义Hooks
+import Demo13 from "./demo13"   //容器水平垂直居中的方法
+import Demo14 from "./demo14"   //演示redux的使用
+import Demo15 from "./demo15"    //该实例是熟悉ES5的继承
+import Demo16 from "./demo16/useImperativeHandle"  //测试 useImperativeHandle
+import Demo16Com from "./demo16/index"    //测试兄弟组件之间的如何传值
 import './App.css';
-
+ 
 function App() {
   return (
     <div>
-      <UseMemo />
+      <Demo16Com />
     </div>
   );
 }

@@ -1,0 +1,50 @@
+//flex布局（子盒子有或没有宽高的时候都适用）
+// .main {
+//     width: 100px;
+//     height: 100px;
+//     background-color: red;
+    
+// }
+// .parent {
+//     width: 500px;
+//     height: 500px;
+//     border: 1px solid red;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+// }
+
+//position 定位（适用于子盒子有宽度和高度的时候）
+// .main {
+//     width: 100px;
+//     height: 100px;
+//     background-color: red;
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     margin-left: -50px;
+//     margin-top: -50px;
+// }
+// .parent {
+//     width: 500px;
+//     height: 500px;
+//     border: 1px solid red;
+//     position: relative;
+// }
+
+//方法二：position + transform（子盒子有或没有宽高的时候都适用）
+.main {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.parent {
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    position: relative;
+}

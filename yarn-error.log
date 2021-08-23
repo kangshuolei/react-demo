@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\kangshuolei\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add mockjs -D
+  C:\Program Files\nodejs\node.exe C:\Users\kangshuolei\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add mockjs
 
 PATH: 
   E:\java\jdk1.8.0_202\bin;E:\java\jdk1.8.0_202\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\软件\vm\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\软件\git\Git\cmd;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\kangshuolei\AppData\Local\Yarn\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.4\bin;;C:\Windows\System32;C:\Users\kangshuolei\AppData\Local\Microsoft\WindowsApps;D:\软件\webstome\WebStorm 2020.1\bin;;D:\软件\vscode\Microsoft VS Code\bin;C:\Users\kangshuolei\AppData\Local\Yarn\bin;C:\Users\kangshuolei\AppData\Roaming\npm;D:\软件\IDEA\IntelliJ IDEA Community Edition 2021.1.1\bin;
